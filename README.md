@@ -13,7 +13,7 @@
 - :fish: Быстро адаптируюсь к новым условиям
 - :sunglasses: Ещё ни разу не пропустила ни одного дедлайна
 - :guitar: В свободное время люблю заниматься рукоделием, играть на гитаре и проводить время с друзьями
-- :eyes: Сейчас нахожусь в поиске работы, вот моё [резюме](https://drive.google.com/file/d/1fB21AUCy7UmdVjqfba9bjbcuhQdjZJnL/view?usp=sharing)
+- :eyes: Сейчас нахожусь в поиске работы, вот моё [резюме](https://github.com/irodiontseva826/resume/blob/main/resume.pdf)
 
 ---
 ### Чем я владею :hammer_and_wrench:
